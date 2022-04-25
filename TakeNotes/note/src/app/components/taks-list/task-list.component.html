@@ -1,0 +1,30 @@
+<body class="container">
+  <div>
+
+    <h1>WELCOME TO THE TO-DO LIST</h1>
+
+    <h2>Please type in something you are required to-do</h2>
+
+    <input type="text" class="task-input" placeholder="Things to do" [(ngModel)]="taskTitle" (keyup.enter)="addTask()">
+
+  </div>
+
+  <div class="task-item" *ngFor="let task of tasks">
+    <div class="task-item-left">
+
+      <input class="checkbox" type="checkbox" [(ngModel)]="task.completed">
+
+      <div class="task-item-label"> {{ task.title }}</div>
+    </div>
+    <div class="remove-item" (click)="deleteTask(task.id)">
+      &times;
+    </div>
+  </div>
+
+  <div class="Extra-container"></div>
+
+  <div>{{ remaining() }}  Items left</div>
+
+  <div>{{ done() }}  Items completed</div>
+
+</body>
