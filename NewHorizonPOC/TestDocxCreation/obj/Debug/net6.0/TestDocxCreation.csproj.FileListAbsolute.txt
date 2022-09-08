@@ -1,0 +1,15 @@
+C:\Users\fifie\source\repos\TestDocxCreation\bin\Debug\net6.0\TestDocxCreation.exe
+C:\Users\fifie\source\repos\TestDocxCreation\bin\Debug\net6.0\TestDocxCreation.deps.json
+C:\Users\fifie\source\repos\TestDocxCreation\bin\Debug\net6.0\TestDocxCreation.runtimeconfig.json
+C:\Users\fifie\source\repos\TestDocxCreation\bin\Debug\net6.0\TestDocxCreation.dll
+C:\Users\fifie\source\repos\TestDocxCreation\bin\Debug\net6.0\TestDocxCreation.pdb
+C:\Users\fifie\source\repos\TestDocxCreation\obj\Debug\net6.0\TestDocxCreation.csproj.AssemblyReference.cache
+C:\Users\fifie\source\repos\TestDocxCreation\obj\Debug\net6.0\TestDocxCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fifie\source\repos\TestDocxCreation\obj\Debug\net6.0\TestDocxCreation.AssemblyInfoInputs.cache
+C:\Users\fifie\source\repos\TestDocxCreation\obj\Debug\net6.0\TestDocxCreation.AssemblyInfo.cs
+C:\Users\fifie\source\repos\TestDocxCreation\obj\Debug\net6.0\TestDocxCreation.csproj.CoreCompileInputs.cache
+C:\Users\fifie\source\repos\TestDocxCreation\obj\Debug\net6.0\TestDocxCreation.dll
+C:\Users\fifie\source\repos\TestDocxCreation\obj\Debug\net6.0\refint\TestDocxCreation.dll
+C:\Users\fifie\source\repos\TestDocxCreation\obj\Debug\net6.0\TestDocxCreation.pdb
+C:\Users\fifie\source\repos\TestDocxCreation\obj\Debug\net6.0\TestDocxCreation.genruntimeconfig.cache
+C:\Users\fifie\source\repos\TestDocxCreation\obj\Debug\net6.0\ref\TestDocxCreation.dll
