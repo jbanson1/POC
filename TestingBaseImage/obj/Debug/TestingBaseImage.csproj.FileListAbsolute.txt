@@ -1,0 +1,3 @@
+C:\Users\fifie\source\repos\TestingBaseImage\obj\Debug\TestingBaseImage.csproj.AssemblyReference.cache
+C:\Users\fifie\source\repos\TestingBaseImage\obj\Debug\TestingBaseImage.csproj.SuggestedBindingRedirects.cache
+C:\Users\fifie\source\repos\TestingBaseImage\obj\Debug\TestingBaseImage.csproj.CoreCompileInputs.cache

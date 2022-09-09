@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fifie\\source\\repos\\TestingApi\\TestingApi.csproj": {}
+    "C:\\Users\\fifie\\OneDrive\\Documents\\GitHub\\POC\\NewHorizonPOC\\TestingApi\\TestingApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fifie\\source\\repos\\TestingApi\\TestingApi.csproj": {
+    "C:\\Users\\fifie\\OneDrive\\Documents\\GitHub\\POC\\NewHorizonPOC\\TestingApi\\TestingApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fifie\\source\\repos\\TestingApi\\TestingApi.csproj",
+        "projectUniqueName": "C:\\Users\\fifie\\OneDrive\\Documents\\GitHub\\POC\\NewHorizonPOC\\TestingApi\\TestingApi.csproj",
         "projectName": "TestingApi",
-        "projectPath": "C:\\Users\\fifie\\source\\repos\\TestingApi\\TestingApi.csproj",
+        "projectPath": "C:\\Users\\fifie\\OneDrive\\Documents\\GitHub\\POC\\NewHorizonPOC\\TestingApi\\TestingApi.csproj",
         "packagesPath": "C:\\Users\\fifie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fifie\\source\\repos\\TestingApi\\obj\\",
+        "outputPath": "C:\\Users\\fifie\\OneDrive\\Documents\\GitHub\\POC\\NewHorizonPOC\\TestingApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fifie\\AppData\\Roaming\\NuGet\\NuGet.Config",

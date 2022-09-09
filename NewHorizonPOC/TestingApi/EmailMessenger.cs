@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System;
 using System.Text;
 using FluentEmail.Razor;
+using System.Net;
 
 namespace TestingApi
 {
@@ -13,18 +14,20 @@ namespace TestingApi
 
         public async void Send()
         {
-            var sender = new SmtpSender(() => new SmtpClient("localhost")
+            var sender = new SmtpSender(() => new SmtpClient("relay-hosting.secureserver.net", 475)
             {
                 EnableSsl = false,
-                DeliveryMethod = SmtpDeliveryMethod.SpecifiedPickupDirectory,
+                DeliveryMethod = SmtpDeliveryMethod.Network,
                 //Port = 475
-                PickupDirectoryLocation = @"C:\Demos\test.txt"
+                PickupDirectoryLocation = @"C:\Demos\test.txt",
+                Credentials = new NetworkCredential()
             });
 
             var email = await Email
         .From("jdotbans@gmail.com")
         .To("jbansdrive@gmail.com", "Joseph")
         .Subject("Hi Joe!")
+        .Attach($"{Directory.GetCurrentDirectory()}")
         .Body("Fluent email looks great!")
         .SendAsync();
         }

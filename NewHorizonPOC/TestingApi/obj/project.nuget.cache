@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F8xPEVhjxmKxSRqEC5oK5zYJXeXK56HZZQJlrqB/CUOlwSawTZacibPmp05x6qiwF8YP1uVfBqWD8LDclPF4GQ==",
+  "dgSpecHash": "Mr5fXCyjCk3WK/KqS9LAuJrVOa1uFKq7fucURpq39Bv75xPy/PD/DS9+uycWWejAyJ5OQkkPmFb3jb6bcex0/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fifie\\source\\repos\\TestingApi\\TestingApi.csproj",
+  "projectFilePath": "C:\\Users\\fifie\\OneDrive\\Documents\\GitHub\\POC\\NewHorizonPOC\\TestingApi\\TestingApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fifie\\.nuget\\packages\\aspose.words\\22.8.0\\aspose.words.22.8.0.nupkg.sha512",
     "C:\\Users\\fifie\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
